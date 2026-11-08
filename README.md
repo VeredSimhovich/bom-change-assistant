@@ -2,7 +2,7 @@
 
 An AI-assisted tool that compares two revisions of a product **Bill of Materials (BOM)**, catches data-quality issues, and drafts an **Engineering Change Order (ECO)**, cutting the manual work in configuration and change management.
 
-**[▶ Live demo](LINK-TO-YOUR-STREAMLIT-APP)**
+**[▶ Live demo](https://bom-change-assistant.streamlit.app)**
 
 ![Dashboard](screenshots/dashboard.png)
 
